@@ -4,17 +4,16 @@ EVERYONE CAN LEARN TO CODE … of conduct
 
 ## Test Double's Code of Conduct
 
-Diversity and inclusion make our company strong. We encourage participation
+Diversity and inclusion make our community strong. We encourage participation
 from the most varied and diverse backgrounds possible and want to be very clear
 about where we stand. Our goal is to maintain a safe, helpful, and friendly
-company for everyone, regardless of ability, age, body size, ethnicity,
+community for everyone, regardless of ability, age, body size, ethnicity,
 experience, gender identity and expression, nationality, personal appearance,
 race, religion, sexual orientation, or other characteristic.
 
-This Code of Conduct applies to all one-on-one communications, slack channels,
-retreats and Test Double events, but also to activities outside of that scope,
-online and in person — anywhere such behaviour has the potential to adversely
-affect the safety and well-being of employees.
+This Code of Conduct applies to all community interactions, including (but not
+limited to) one-on-one communications, public posts/comments, code reviews,
+pull requests, and GitHub issues.
 
 ### Expected Behavior
 
@@ -48,6 +47,6 @@ Understand that speech and actions have consequences, and unacceptable behavior 
 
 If you are the subject of or witness to any violations of this Code of Conduct, please contact [Christine McCallum Randalls](mailto:christine@testdouble.com).
 
-If violations occur, Test Double will take any action they deem appropriate for the infraction, up to and including termination of employment.
+If violations occur, Test Double will take any action they deem appropriate for the infraction, up to and including blocking a user from the organization's repositories.
 
 [Primary Code of Conduct](https://testdouble.com/code-of-conduct)
