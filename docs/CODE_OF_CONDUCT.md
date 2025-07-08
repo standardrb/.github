@@ -1,8 +1,12 @@
+<!--
+This is a default code of conduct that applies to the entire standardrb organization.
+It may be overridden by a repo-specific code of conduct.
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
+-->
+
 # CODE OF CONDUCT
 
 EVERYONE CAN LEARN TO CODE … of conduct
-
-## Test Double's Code of Conduct
 
 Diversity and inclusion make our community strong. We encourage participation
 from the most varied and diverse backgrounds possible and want to be very clear
@@ -15,14 +19,14 @@ This Code of Conduct applies to all community interactions, including (but not
 limited to) one-on-one communications, public posts/comments, code reviews,
 pull requests, and GitHub issues.
 
-### Expected Behavior
+## Expected Behavior
 
 * Be respectful.
 * Be welcoming.
 * Be kind.
 * Look out for each other.
 
-### Unacceptable Behavior (online or in person) (non-exhaustive)
+## Unacceptable Behavior (online or in person) (non-exhaustive)
 
 * Disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 * Disrespect towards differences of opinion.
@@ -41,7 +45,7 @@ pull requests, and GitHub issues.
 * Sustained disruption of community events, including talks and presentations.
 * Framing disparagement as constructive criticism, and vice versa.
 
-### Enforcement
+## Enforcement
 
 Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 
@@ -49,4 +53,4 @@ If you are the subject of or witness to any violations of this Code of Conduct, 
 
 If violations occur, Test Double will take any action they deem appropriate for the infraction, up to and including blocking a user from the organization's repositories.
 
-[Primary Code of Conduct](https://testdouble.com/code-of-conduct)
+[Test Double Code of Conduct](https://testdouble.com/code-of-conduct)
