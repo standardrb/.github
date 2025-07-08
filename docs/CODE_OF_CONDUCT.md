@@ -53,4 +53,4 @@ If you are the subject of or witness to any violations of this Code of Conduct, 
 
 If violations occur, Test Double will take any action they deem appropriate for the infraction, up to and including blocking a user from the organization's repositories.
 
-[Primary Code of Conduct](https://testdouble.com/code-of-conduct)
+[Test Double Code of Conduct](https://testdouble.com/code-of-conduct)
