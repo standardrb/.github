@@ -8,8 +8,6 @@ https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contr
 
 EVERYONE CAN LEARN TO CODE … of conduct
 
-## Test Double's Code of Conduct
-
 Diversity and inclusion make our community strong. We encourage participation
 from the most varied and diverse backgrounds possible and want to be very clear
 about where we stand. Our goal is to maintain a safe, helpful, and friendly
@@ -21,14 +19,14 @@ This Code of Conduct applies to all community interactions, including (but not
 limited to) one-on-one communications, public posts/comments, code reviews,
 pull requests, and GitHub issues.
 
-### Expected Behavior
+## Expected Behavior
 
 * Be respectful.
 * Be welcoming.
 * Be kind.
 * Look out for each other.
 
-### Unacceptable Behavior (online or in person) (non-exhaustive)
+## Unacceptable Behavior (online or in person) (non-exhaustive)
 
 * Disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 * Disrespect towards differences of opinion.
@@ -47,7 +45,7 @@ pull requests, and GitHub issues.
 * Sustained disruption of community events, including talks and presentations.
 * Framing disparagement as constructive criticism, and vice versa.
 
-### Enforcement
+## Enforcement
 
 Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
 
